@@ -1,6 +1,9 @@
+
+
 - 👋 Hi, I’m @hollywood-boop
 - 👀 I’m interested in Learning, keeps my mind going.
 - 🌱 I’m currently learning github along with Python.
+I am editing the README file. Adding some more details about the project description
  
 
 
